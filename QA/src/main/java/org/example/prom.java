@@ -15,7 +15,7 @@ public class prom {
         promPage prom=new promPage(driver);
 
         try{
-            driver.get("https://prom.ua/");
+            driver.get("https://prom.ua/"); //njdcnjdcnjdnjcnjdcnjdcnjdc
             if (logger.isInfoEnabled()){
                 logger.info("команда пацює");
             }}catch (Exception e) {
