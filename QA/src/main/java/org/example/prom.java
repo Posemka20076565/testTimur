@@ -21,7 +21,7 @@ public class prom {
             }}catch (Exception e) {
             logger.info("Виникла помилка");
         }try{
-            prom.search("рюкзаки");
+            prom.search("рюкзаки"); //y93y98deqhbucbyibhicdqnuqxwimpeqcncxdqnbh
             if (logger.isInfoEnabled()){
                 logger.info("команда пацює");
             }}catch (Exception e) {
@@ -32,7 +32,7 @@ public class prom {
             e.printStackTrace();
         }
         try{
-            prom.submit();
+            prom.submit();//jcdajnocaojjoncdanjoadjncdjnoadcjno
             if (logger.isInfoEnabled()){
                 logger.info("команда пацює");
             }}catch (Exception e){
